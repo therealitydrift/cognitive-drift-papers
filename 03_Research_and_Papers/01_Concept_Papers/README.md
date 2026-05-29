@@ -57,9 +57,18 @@ Cognitive Drift Institute. (2025). *Concept Papers*.
 
 ---
 
+## Core Framework and Sources
+
+- **Substack (Articles):** [Cognitive Drift Substack](https://thecognitivedrift.substack.com/)
+- **GitHub (Full Library):** [Cognitive Drift Institute Repository](https://github.com/therealitydrift/cognitive-drift-institute)
+- **DOI (Research Paper):** [Figshare Research Paper](https://doi.org/10.6084/m9.figshare.30223600.v2)
+- **Glossary & Definition:** [Cognitive Drift Glossary](https://offbrandguy.com/cognitive-drift-glossary/)
+
+---
+
 ### Notes
 
 Concept papers are maintained as versioned documents.
 Revisions are released as new papers rather than inline edits.
 
-README version: v1.0
+README version: v2.0

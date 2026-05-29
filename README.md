@@ -2,7 +2,7 @@
 
 The Cognitive Drift Institute is an open, public research repository authored by A. Jacobs, focused on how human cognition degrades, adapts, or reorganizes under conditions of persistent noise, optimization pressure, and artificial mediation.
 
-The materials collected here were developed between 2023 and 2026 as part of the Reality Drift framework, a research framework for analyzing how meaning, cognition, and culture deform under modern symbolic systems.
+The materials collected here were developed between 2023 and 2026 as part of a research framework for analyzing how meaning, cognition, and culture deform under modern symbolic systems.
 
 The project examines cognitive drift as a structural phenomenon: how attention, meaning, judgment, and self-modeling change when modern environments exceed the mind’s capacity for stable integration.
 
@@ -24,7 +24,7 @@ Rather than treating confusion, burnout, or disorientation as individual failure
 
 - incentive-driven compression of meaning
 
-The institute provides a research infrastructure for understanding how cognition behaves inside high-entropy systems, especially when traditional signals of grounding, feedback, and correction weaken.
+The project provides research infrastructure for understanding how cognition behaves inside high-entropy systems, especially when traditional signals of grounding, feedback, and correction weaken.
 
 ---
 
@@ -54,97 +54,6 @@ This work bridges cognitive science, systems theory, human–AI interaction, and
 
 ---
 
-## Key Concepts
-
-The following concepts form the core vocabulary of the Cognitive Drift Institute. Each term is used operationally across papers and diagnostics in this repository.
-
----
-
-### Cognitive Drift
-
-The gradual shift in human cognition that occurs when environmental complexity and symbolic load exceed the mind’s capacity for stable integration. Cognitive drift manifests as thinning attention, reduced depth, increased dependence on external structure, and difficulty sustaining meaning — without a clear point of failure.
-
----
-
-### Recursive Compression
-
-Proposes that intelligence arises from the ability to compress information, while consciousness emerges from recursive self-modeling within that compression process. Meaning, identity, and perception stabilize through feedback loops between representation, memory, and self-reference.
-
-**Repository:** [GitHub - therealitydrift/recursive-compression-theory: Canonical definition of the term “Recursive Compression Theory&quot;](https://github.com/therealitydrift/recursive-compression-theory)
-
----
-
-### Co-Cognition
-
-A cognitive mode in which thinking is distributed across human and artificial systems. In co-cognition, tools do not merely assist thought but participate in it, reshaping memory, language, and decision structure in real time.
-
----
-
-### Drift Principle
-
-Describes how systems lose coherence when acceleration or complexity outpaces the human capacity to integrate meaning—even while performance metrics remain stable. Drift emerges not from collapse, but from sustained mismatch between system dynamics and cognitive limits.  
-**Repository:** [GitHub - therealitydrift/drift-principle: Canonical definition of the term “Drift Principle”](https://github.com/therealitydrift/drift-principle)
-
----
-
-### Synthetic Flow
-
-A state of sustained cognitive engagement enabled by artificial systems, where effort feels fluid and productive while internal grounding and authorship may be partially displaced or offloaded.
-
----
-
-### Cognitive Porousness
-
-The degree to which external signals, prompts, incentives, and symbolic structures penetrate and shape internal cognition. High porousness increases adaptability but also vulnerability to drift under optimized environments.
-
----
-
-### Compression Styles
-
-Stable patterns in how individuals and systems compress information under noise. Different compression styles produce different failure modes, strengths, and distortions when environments become saturated.
-
----
-
-## The Age of Drift - Collected Writings
-
-**The Age of Drift: Why Modern Life Feels Fake — and What Reality Drift Reveals About the Modern Mind**
-
-- **Amazon**: [The Age of Drift on Amazon](https://www.amazon.com/Age-Drift-Modern-Reality-Reveals/dp/B0G5JV6GFQ)
-
-- **Google**: [The Age of Drift on Google Books](https://www.google.com/books/edition/The_Age_of_Drift_Why_Modern_Life_Feels_F/LHqgEQAAQBAJ)
-
----
-
-## Flagship Academic Papers
-
-- **Cognitive Compression Styles: A Conceptual Framework for Differential System Failure in High-Noise Environments**  
-  [PhilPapers](https://philpapers.org/rec/JACCCS-3)
-
-- **The Drift Principle: An Information-Theoretic Model of Culture, Cognition, and Meaning in High-Entropy Digital Environments**  
-  [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5958795)
-
----
-
-## Research & Archives
-
-- **Figshare**: https://figshare.com/authors/Cognitive_Drift_Institute/22278802
-
-- **ORCID**  
-  [ORCID](https://orcid.org/0009-0002-7251-9875)
-
-- **Academia.edu**  
-  [A. Jacobs - Independent Researcher](https://independent.academia.edu/AJacobs9)
-
-## Publishing & Commentary
-
-- [Substack](https://thecognitivedrift.substack.com/)
-
-- [Medium](https://medium.com/@cognitivedriftaj)
-
-- [SlideShare](https://www.slideshare.net/cognitivedriftaj)
-
-- [Archive.org](https://archive.org/details/@austin_jacobs887)
-
 ## Repository Contents
 
 This repository includes:
@@ -170,6 +79,87 @@ This repository includes:
 
 ---
 
+## Key Terminology
+
+The following concepts form the core vocabulary of the Cognitive Drift Institute. Each term is used operationally across papers and diagnostics in this repository.
+
+---
+
+### Cognitive Drift
+
+The gradual shift in human cognition that occurs when environmental complexity and symbolic load exceed the mind’s capacity for stable integration. Cognitive drift manifests as thinning attention, reduced depth, increased dependence on external structure, and difficulty sustaining meaning — without a clear point of failure.
+
+**Repository:** https://github.com/therealitydrift/cognitive-drift-reference
+
+---
+
+### Recursive Compression
+
+Proposes that intelligence arises from the ability to compress information, while consciousness emerges from recursive self-modeling within that compression process. Meaning, identity, and perception stabilize through feedback loops between representation, memory, and self-reference.
+
+**Repository:** https://github.com/therealitydrift/recursive-compression-reference](https://github.com/therealitydrift/recursive-compression-theory)
+
+---
+
+### Co-Cognition
+
+A cognitive mode in which thinking is distributed across human and artificial systems. In co-cognition, tools do not merely assist thought but participate in it, reshaping memory, language, and decision structure in real time.
+
+**Repository:** https://github.com/therealitydrift/co-cognition-reference
+
+---
+
+### Drift Principle
+
+Describes how systems lose coherence when acceleration or complexity outpaces the human capacity to integrate meaning—even while performance metrics remain stable. Drift emerges not from collapse, but from sustained mismatch between system dynamics and cognitive limits.  
+**Repository:** https://github.com/therealitydrift/drift-principle-reference](https://github.com/therealitydrift/drift-principle)
+
+---
+
+### Synthetic Flow
+
+A state of sustained cognitive engagement enabled by artificial systems, where effort feels fluid and productive while internal grounding and authorship may be partially displaced or offloaded.
+
+---
+
+### Cognitive Porousness
+
+The degree to which external signals, prompts, incentives, and symbolic structures penetrate and shape internal cognition. High porousness increases adaptability but also vulnerability to drift under optimized environments.
+
+---
+
+### Compression Styles
+
+Stable patterns in how individuals and systems compress information under noise. Different compression styles produce different failure modes, strengths, and distortions when environments become saturated.
+
+---
+
+## Core Academic Papers
+
+- **Cognitive Compression Styles: A Conceptual Framework for Differential System Failure in High-Noise Environments**  
+  [PhilPapers](https://philpapers.org/rec/JACCCS-3)
+
+- **The Drift Principle: An Information-Theoretic Model of Culture, Cognition, and Meaning in High-Entropy Digital Environments**  
+  [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5958795)
+
+---
+
+## Research & Archives
+
+- **Academia.edu**  
+  [Austin Jacobs – Independent Researcher](https://independent.academia.edu/AustinJacobs18)
+
+- **Figshare**  
+  [Cognitive Drift Institute](https://figshare.com/authors/Cognitive_Drift_Institute/22278802)
+
+## Publishing & Commentary
+
+- [Substack](https://thecognitivedrift.substack.com/)
+
+- [Internet Archive](https://archive.org/details/@austin_jacobs887)
+
+---
+
 ## Relationship to Reality Drift
 
 The Cognitive Drift Institute is closely related to the Reality Drift Project but is maintained as a distinct research body.
@@ -185,8 +175,6 @@ The Cognitive Drift Institute is closely related to the Reality Drift Project bu
 - [Reality Drift Library](https://github.com/therealitydrift/reality-drift-library)
 
 - [Semantic Fidelity Lab](https://github.com/therealitydrift/semantic-fidelity-lab)
-
-- [Reality Drift Conceptual Echoes](https://github.com/therealitydrift/reality-drift-conceptual-echoes)
 
 ---
 
@@ -206,4 +194,4 @@ Material may be shared and adapted with attribution, for non-commercial purposes
 
 ---
 
-README version: v1.0 (canonical)
+README version: v2.0 (canonical)
