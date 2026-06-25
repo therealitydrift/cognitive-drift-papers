@@ -1,197 +1,149 @@
 # Cognitive Drift Institute
 
-The Cognitive Drift Institute is an open, public research repository authored by A. Jacobs, focused on how human cognition degrades, adapts, or reorganizes under conditions of persistent noise, optimization pressure, and artificial mediation.
+The Cognitive Drift Institute is the dedicated public repository for the cognitive branch of the Reality Drift framework.
 
-The materials collected here were developed between 2023 and 2026 as part of a research framework for analyzing how meaning, cognition, and culture deform under modern symbolic systems.
+Cognitive Drift describes the gradual shift in how human cognition operates under modern informational conditions. It emerges when internal models of reality become increasingly shaped by mediated, compressed, and unstable environments rather than direct experience.
 
-The project examines cognitive drift as a structural phenomenon: how attention, meaning, judgment, and self-modeling change when modern environments exceed the mind’s capacity for stable integration.
+Human cognition evolved under conditions of repeated feedback, embodied interaction, and relatively stable meaning. These conditions allowed attention, judgment, and interpretation to stabilize through direct contact with the world. Modern informational environments operate differently. Information now arrives through layers of abstraction, filtering, algorithmic sorting, and continuous reinterpretation.
 
-This repository consolidates conceptual papers, empirical probes, diagnostic frameworks, and teaching materials for researchers, designers, educators, and system builders working at the intersection of cognition and technology.
+As these layers accumulate, cognition adapts to them. Thought becomes faster and more recursive, relying increasingly on representations rather than direct grounding in lived experience. Over time, this changes how attention is sustained, how meaning is formed, and how judgment stabilizes. Information is processed in shorter cycles, context becomes thinner, and interpretations are updated more often before they fully resolve. The result is not cognitive failure, but a gradual shift in the structure of thought itself.
 
----
+Cognition does not simply resist these conditions. It adapts to them, and in doing so the structure of thought itself begins to change. Under high-density informational environments, the mind increasingly updates partial interpretations rather than forming stable ones. As AI, algorithmic systems, and distributed cognition enter the loop, these pressures intensify.
 
-## Project Overview
-
-Cognitive Drift describes how human thinking shifts when environments are optimized faster than cognition can recalibrate.
-
-Rather than treating confusion, burnout, or disorientation as individual failures, the Cognitive Drift Institute studies these effects as systemic cognitive responses to:
-
-- sustained information overload
-
-- recursive symbolic environments
-
-- algorithmic mediation
-
-- incentive-driven compression of meaning
-
-The project provides research infrastructure for understanding how cognition behaves inside high-entropy systems, especially when traditional signals of grounding, feedback, and correction weaken.
+Cognitive Drift names this structural adaptation and the changes it produces in attention, meaning, and judgment.
 
 ---
 
-## Why This Exists
+## What This Repository Contains
 
-Modern cognitive environments rarely fail in obvious ways. They continue to function and produce results, even when feedback loops weaken and judgment becomes less reliable. Performance can remain stable while alignment with underlying reality gradually erodes.
-
-The Cognitive Drift Institute studies this pattern. It documents and models how sustained optimization pressure, information overload, and representational abstraction can strain human cognition. The focus is on identifying structural conditions that contribute to cognitive simplification, distortion, and reduced corrective capacity.
+This repository serves as the primary archive for the Cognitive Drift branch of the broader Reality Drift framework. It contains canonical definitions, formal essays, research papers, visual models, practical recognition guides, and archival materials documenting the development of the framework.
 
 ---
 
-## Core Research Focus
+## Public Writing
 
-The Cognitive Drift Institute studies:
+Ongoing essays and public-facing applications of the framework are published through the Cognitive Drift Institute Substack.
 
-- how cognition behaves under sustained noise
-
-- how meaning degrades without obvious failure
-
-- how recursive symbolic systems reshape attention and self-modeling
-
-- how optimization pressures alter judgment and sense-making
-
-- how humans enter new cognitive modes when tools become co-thinkers
-
-This work bridges cognitive science, systems theory, human–AI interaction, and cultural analysis.
+**Cognitive Drift Institute Substack**  
+[Read on Substack](https://thecognitivedrift.substack.com/)
 
 ---
 
-## Repository Contents
+## Repository Structure
 
-This repository includes:
+```text
+00_Start_Here
+01_Canonical_Frameworks
+02_Media_Assets
+03_Research_and_Papers
+04_Essays
+```
 
-- Conceptual Papers  
-  Formal models and frameworks describing cognitive drift mechanisms
-
-- Empirical & Diagnostic Materials  
-  Probes, heuristics, and evaluative tools for observing drift in practice
-
-- Working Materials  
-  Early-stage drafts and exploratory artifacts shared for transparency
-
----
-
-## How to Use This Repository
-
-- Researchers may cite frameworks and models with attribution
-
-- Designers and practitioners may adapt diagnostics for applied analysis
-
-- Educators may reuse materials for teaching and discussion
+The repository is organized in layers. Some sections establish the canonical framework, while others preserve essays, research papers, and visual materials that expand the cognitive branch of the broader Reality Drift archive.
 
 ---
 
-## Key Terminology
+# 
 
-The following concepts form the core vocabulary of the Cognitive Drift Institute. Each term is used operationally across papers and diagnostics in this repository.
+## Structure
 
----
+- [00_Start_Here](https://github.com/therealitydrift/cognitive-drift-institute/tree/main/00_Start_Here)  
+  Core orientation materials and first entry point into the Cognitive Drift framework.
 
-### Cognitive Drift
+- [01_Canonical_Frameworks](https://github.com/therealitydrift/cognitive-drift-institute/tree/main/01_Canonical_Frameworks)  
+  Primary definitions, core concepts, and canonical framework documents.
 
-The gradual shift in human cognition that occurs when environmental complexity and symbolic load exceed the mind’s capacity for stable integration. Cognitive drift manifests as thinning attention, reduced depth, increased dependence on external structure, and difficulty sustaining meaning — without a clear point of failure.
+- [02_Media_Assets / Article_Visuals](https://github.com/therealitydrift/cognitive-drift-institute/tree/main/02_Media_Assets/Article_Visuals)  
+  Visual assets and illustrations used in essays and public-facing materials.
 
-**Repository:** https://github.com/therealitydrift/cognitive-drift-reference
+- [03_Research_and_Papers](https://github.com/therealitydrift/cognitive-drift-institute/tree/main/03_Research_and_Papers)  
+  Research papers, conceptual papers, and supporting analytical work.
 
----
-
-### Recursive Compression
-
-Proposes that intelligence arises from the ability to compress information, while consciousness emerges from recursive self-modeling within that compression process. Meaning, identity, and perception stabilize through feedback loops between representation, memory, and self-reference.
-
-**Repository:** https://github.com/therealitydrift/recursive-compression-reference](https://github.com/therealitydrift/recursive-compression-theory)
-
----
-
-### Co-Cognition
-
-A cognitive mode in which thinking is distributed across human and artificial systems. In co-cognition, tools do not merely assist thought but participate in it, reshaping memory, language, and decision structure in real time.
-
-**Repository:** https://github.com/therealitydrift/co-cognition-reference
+- [04_Essays](https://github.com/therealitydrift/cognitive-drift-institute/tree/main/04_Essays)  
+  Longform essays, applied reflections, and interpretive writing.
 
 ---
 
-### Drift Principle
+## Core Concepts
 
-Describes how systems lose coherence when acceleration or complexity outpaces the human capacity to integrate meaning—even while performance metrics remain stable. Drift emerges not from collapse, but from sustained mismatch between system dynamics and cognitive limits.  
-**Repository:** https://github.com/therealitydrift/drift-principle-reference](https://github.com/therealitydrift/drift-principle)
+The Cognitive Drift framework is organized around a set of related concepts that describe how cognition changes under modern informational conditions.
 
----
+These include:
 
-### Synthetic Flow
+- Cognitive Drift
 
-A state of sustained cognitive engagement enabled by artificial systems, where effort feels fluid and productive while internal grounding and authorship may be partially displaced or offloaded.
+- Filter Fatigue
 
----
+- Co-Cognition
 
-### Cognitive Porousness
+- Cognitive Hygiene
 
-The degree to which external signals, prompts, incentives, and symbolic structures penetrate and shape internal cognition. High porousness increases adaptability but also vulnerability to drift under optimized environments.
+- Recursive Compression
 
----
+- Attention Fragmentation
 
-### Compression Styles
+- Judgment Failure
 
-Stable patterns in how individuals and systems compress information under noise. Different compression styles produce different failure modes, strengths, and distortions when environments become saturated.
+- Meaning Exhaustion
 
----
+- Distributed Cognition
 
-## Core Academic Papers
-
-- **Cognitive Compression Styles: A Conceptual Framework for Differential System Failure in High-Noise Environments**  
-  [PhilPapers](https://philpapers.org/rec/JACCCS-3)
-
-- **The Drift Principle: An Information-Theoretic Model of Culture, Cognition, and Meaning in High-Entropy Digital Environments**  
-  [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5958795)
+While distinct, these concepts are structurally related. They describe how cognition remains operational while gradually weakening its ability to resolve, stabilize, and maintain meaningful contact with reality.
 
 ---
 
-## Research & Archives
+## Areas of Application
 
-- **Academia.edu**  
-  [Austin Jacobs – Independent Researcher](https://independent.academia.edu/AustinJacobs18)
-
-- **Figshare**  
-  [Cognitive Drift Institute](https://figshare.com/authors/Cognitive_Drift_Institute/22278802)
-
-## Publishing & Commentary
-
-- [Substack](https://thecognitivedrift.substack.com/)
-
-- [Internet Archive](https://archive.org/details/@austin_jacobs887)
+The Cognitive Drift framework applies across multiple layers of human cognition and modern informational life. It helps describe how digital environments fragment attention, how recursive thought loops destabilize judgment, how distributed cognition alters memory and decision-making, and how high-density symbolic environments reshape meaning itself. While these conditions differ in form, the underlying structural pressures often repeat.
 
 ---
 
-## Relationship to Reality Drift
+## Scope
 
-The Cognitive Drift Institute is closely related to the Reality Drift Project but is maintained as a distinct research body.
+Cognitive Drift is a descriptive framework. It is not a clinical model, diagnostic system, or therapeutic framework.
 
-- Reality Drift focuses on cultural, symbolic, and systemic conditions
+Its purpose is structural analysis. Identifying how cognition changes under conditions of overload, recursion, symbolic compression, and distributed informational environments.
 
-- Cognitive Drift focuses on human cognition operating inside those conditions
+---
+
+## Archive Structure
+
+This repository contains both canonical and archival material. Canonical materials reflect the current most stable formulations. Archival materials preserve earlier drafts, exploratory formulations, and developmental source material.
 
 ---
 
 ## Related Repositories
 
+The broader Reality Drift project includes related repositories focused on adjacent structural domains:
+
 - [Reality Drift Library](https://github.com/therealitydrift/reality-drift-library)
 
 - [Semantic Fidelity Lab](https://github.com/therealitydrift/semantic-fidelity-lab)
+
+These repositories extend the broader framework into systemic and semantic domains while remaining structurally connected to this archive.
 
 ---
 
 ## Citation
 
-If referencing this work, please cite:
+If referencing this repository, cite:
 
-> Jacobs, A. (2025). *Cognitive Drift Institute*.
+**Jacobs, A. (2026). *Cognitive Drift Institute***
+
+GitHub repository archive.
 
 ---
 
 ## License
 
-Distributed under Creative Commons CC BY-NC-SA 4.0.
+This repository is distributed under the **Creative Commons CC BY-NC-SA 4.0** license.
 
-Material may be shared and adapted with attribution, for non-commercial purposes, under the same license.
+Materials may be shared and adapted with attribution for non-commercial use under the same terms.
 
 ---
 
-README version: v2.0 (canonical)
+## Authorship
+
+Cognitive Drift Institute  
+Authored and maintained by **A. Jacobs**  
+Research Archive (2024–2026)
