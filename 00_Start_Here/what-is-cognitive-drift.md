@@ -1,86 +1,52 @@
-# What Is Cognitive Drift?
+### What Is Cognitive Drift?
 
 Part of the Reality Drift framework (2023–2026) by A. Jacobs.
 
 ## Overview
 
-Cognitive Drift describes gradual changes in how individuals perceive, interpret, and navigate reality when their informational environment becomes increasingly mediated, complex, and unstable.
+Cognitive Drift describes the gradual shift in how human cognition operates under modern informational conditions. It emerges when internal models of reality become increasingly shaped by mediated, compressed, and unstable environments rather than direct experience.
 
-Human cognition evolved in environments where feedback from the world was relatively direct. Information moved at human speeds, and meaning stabilized through repeated interaction with physical and social environments.
+Human cognition evolved through repeated feedback, embodied interaction, and relatively durable patterns of meaning. These conditions allowed perception and judgment to remain closely tied to the environments they were tracking. Modern informational systems alter that relationship. Information now arrives through layers of abstraction, filtering, algorithmic sorting, and continuous reinterpretation before it reaches the mind.
 
-Modern systems alter those conditions.
-
-Algorithms filter attention, institutions compress complexity into simplified models, and digital platforms continuously reshape how information appears and circulates.
-
-As these layers accumulate, the mind adapts to the environment it is operating within.
-
-Cognitive Drift describes the resulting shifts in perception, judgment, and meaning-making.
-
-## Why Cognitive Drift Matters
-
-The human mind relies on stable patterns to compress experience into usable understanding.
-
-When informational environments change faster than cognition can integrate them, this compression process becomes less reliable.
-
-Instead of forming stable interpretations of reality, individuals increasingly navigate environments shaped by:
-
-- algorithmic mediation
-
-- fragmented information streams
-
-- accelerated cultural change
-
-- automated systems generating plausible representations of knowledge
-
-The result is not necessarily confusion or failure. In many cases cognition continues functioning normally.
-
-But the reference points that stabilize meaning begin to shift.
-
-Cognitive Drift provides a framework for studying these subtle changes in how people perceive and process reality.
+As those layers accumulate, cognition increasingly relies on representations rather than direct grounding in lived experience. Information is processed in shorter cycles, interpretations are revised more often before they fully settle, and understanding becomes less stable as new inputs continue to arrive. Cognitive Drift names this structural shift and the informational conditions that produce it.
 
 ## Where Cognitive Drift Emerges
 
-Cognitive Drift tends to appear when three pressures converge:
+Cognitive Drift tends to emerge when three structural pressures converge:
 
 **Information Overload**
 
-Individuals encounter more information than the mind can easily compress into stable interpretations.
+The mind encounters more information than it can easily compress into stable interpretations.
 
 **Optimization Environments**
 
-Platforms and institutions increasingly shape behavior through measurable incentives such as engagement, productivity, or visibility.
+Platforms and institutions increasingly shape behavior through measurable incentives such as engagement, productivity, and visibility.
 
 **Mediated Experience**
 
-A growing portion of perception occurs through screens, interfaces, and algorithmically filtered information rather than direct interaction with the world.
-
-Under these conditions, cognitive systems gradually adapt to the informational environment itself.
+A growing portion of perception occurs through screens, interfaces, and algorithmically filtered representations rather than direct interaction with the world.
 
 ## Research Focus
 
-The Cognitive Drift Institute studies how modern information environments influence human cognition, particularly:
+The Cognitive Drift Institute studies:
 
-- attention patterns in algorithmic media environments
+- attention fragmentation in algorithmic environments
 
-- how individuals form interpretations in high-information ecosystems
+- recursive cognition under high-density information conditions
 
-- the interaction between AI systems and human cognitive processes
+- AI-human co-cognitive interaction
 
-- the psychological effects of continuous digital mediation
+- distributed cognition and representational dependency
 
-- the relationship between informational complexity and cognitive stability
+- cognitive hygiene under continuous informational exposure
 
-The goal is to better understand how human cognition adapts to environments shaped by rapidly evolving information systems.
+- the structural conditions that destabilize meaning formation
+
+The goal is to better understand how cognition adapts under modern informational pressure.
 
 ## Relationship to Reality Drift
 
-Cognitive Drift represents the human layer of the broader Reality Drift framework.
-
-While Reality Drift describes how systems gradually lose alignment with real-world conditions, Cognitive Drift focuses on how the human mind adapts to those shifting systems.
-
-As institutions, media environments, and technologies evolve, cognition adjusts in order to navigate the altered informational landscape.
-
-Understanding these adaptations helps explain why modern life can feel increasingly unstable even when systems continue functioning.
+Cognitive Drift represents the human layer of the broader Reality Drift framework. While Reality Drift describes how systems gradually lose alignment with real-world conditions, Cognitive Drift examines how the human mind reorganizes within those shifting conditions.
 
 For the full Reality Drift framework, see:
 
@@ -92,7 +58,7 @@ For the full Reality Drift framework, see:
 
 If referencing this work, please cite:
 
-> Jacobs, A. *Cognitive Drift Institute*.
+> Jacobs, A. *Cognitive Drift Institute.*
 
 ---
 
@@ -100,4 +66,4 @@ If referencing this work, please cite:
 
 Distributed under Creative Commons CC BY-NC-SA 4.0.
 
-Material may be shared and adapted with attribution, for non-commercial purposes, under the same license.
+Materials may be shared and adapted with attribution for non-commercial use under the same terms.
