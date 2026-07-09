@@ -1,87 +1,55 @@
-# Canonical Frameworks
+## Canonical Frameworks
 
-## Foundational Reference Frameworks of the Cognitive Drift Institute
+README v3 
+
+## Foundational Reference Materials of the Cognitive Drift Institute
 
 ### Overview
 
-This directory contains the canonical frameworks produced by the Cognitive Drift Institute. These materials define the stable conceptual, lexical, visual, and overview structures used to analyze cognitive drift and related phenomena in digitally mediated environments.
+This directory contains the core reference materials of the Cognitive Drift Institute.
 
-The frameworks in this folder serve as reference foundations rather than narrative or interpretive work. They establish shared language and models used consistently across research, diagnostics, and applied analysis.
-
----
-
-## Contents
-
-### Canonical Overview FAQ
-
-Folder: [Canonical_Overview_FAQ](./Canonical_Overview_FAQ/)
-
-Core overview and FAQ materials introducing the Cognitive Drift framework, its definitions, and its primary conceptual boundaries.
+These materials establish the primary conceptual structures, definitions, visual models, and interpretive boundaries used throughout the broader Cognitive Drift framework.
 
 ---
 
-### Diagnostic Visual Framework
+## Structure
 
-Folder: [Diagnostic_Visual_Framework](./Diagnostic_Visual_Framework/)
+**[Canonical Concept Papers](https://github.com/therealitydrift/cognitive-drift-institute/tree/main/01_Canonical_Frameworks/Canonical_Concept_Papers)**  
+Primary concept papers defining the core terms, mechanisms, and structural relationships within the framework.
 
-Visual models and diagrams used to identify structural patterns, cycles, and failure modes in cognition under modern symbolic systems.
+**[Canonical Overview FAQ](https://github.com/therealitydrift/cognitive-drift-institute/tree/main/01_Canonical_Frameworks/Canonical_Overview_FAQ)**  
+Overview documents introducing the framework, answering foundational questions, and clarifying scope and boundaries.
 
----
+**[Diagnostic Visual Framework](https://github.com/therealitydrift/cognitive-drift-institute/tree/main/01_Canonical_Frameworks/Diagnostic_Visual_Framework)**  
+Visual models used to map recurring patterns, loops, and structural failure modes.
 
-### Lexical Frameworks
-
-Folder: [Lexical_Frameworks](./Lexical_Frameworks/)
-
-Canonical glossaries and controlled vocabularies defining core terms and concepts.
-
----
-
-## Role Within the Cognitive Drift Institute
-
-Canonical frameworks provide the structural backbone of the Cognitive Drift Institute.
-
-They support consistency across conceptual papers, empirical probes, diagnostics, and educational materials.
-
-These frameworks are used to analyze cognitive phenomena that arise when modern symbolic systems shape attention, meaning, and judgment without reliable grounding, feedback, or correction.
+**[Archive Materials](https://github.com/therealitydrift/cognitive-drift-institute/tree/main/01_Canonical_Frameworks/Archive_Materials)**  
+Earlier developmental materials preserved for historical reference. Some concepts may differ from current canonical versions.
 
 ---
 
-## Intended Use
+## Role Within the Project
 
-These materials may be used for:
-
-- Conceptual and analytical reference
-- Research and academic citation
-- Framework alignment across related projects
-- Educational and instructional contexts
+These materials form the foundational reference layer of the Cognitive Drift Institute. They support consistency across essays, diagnostics, educational resources, and applied analysis.
 
 ---
 
-## Context
+## Core Resources
 
-This directory is part of the [Cognitive Drift Institute GitHub repository](https://github.com/therealitydrift/cognitive-drift-institute).
+- [Substack Essays](https://thecognitivedrift.substack.com/)
+- [GitHub Repository](https://github.com/therealitydrift/cognitive-drift-institute)
+- [Glossary and Definitions](https://offbrandguy.com/cognitive-drift-glossary/)
 
 ---
 
 ## Citation
 
-Cognitive Drift Institute. (2025). *Canonical Frameworks*.
+*Cognitive Drift Institute* (2026). Canonical Frameworks.
 
 ---
 
-## Core Framework and Resources
+## Versioning
 
-- [Substack Articles](https://thecognitivedrift.substack.com/)
-- [GitHub Full Library](https://github.com/therealitydrift/cognitive-drift-institute)
-- [DOI Research Paper](https://doi.org/10.6084/m9.figshare.30223600)
-- [Glossary and Definition](https://offbrandguy.com/cognitive-drift-glossary/)
+Canonical materials are maintained as versioned reference documents.
 
----
-
-## Notes
-
-Canonical frameworks are maintained as versioned reference materials.
-
-Updates are released as discrete revisions.
-
-README version: v2.0
+Revisions are released as discrete updates as the framework develops.
