@@ -1,64 +1,37 @@
-# Canonical Concept Papers
+# Core Concept Papers
 
-README v2 - May 2026 
+This directory contains the primary concept papers for the Cognitive Drift framework.
 
-## Core Concept Architecture of the Cognitive Drift Institute
-
-### Overview
-
-This directory contains the primary canonical concept papers of the Cognitive Drift Institute.
-
-Each concept folder includes two foundational materials:
-
-- a canonical concept paper providing full conceptual development  
-- a canonical definition providing the stable reference form  
-
-These establish the core conceptual architecture of the broader Cognitive Drift framework.
+Each paper develops a core concept describing how cognition changes under conditions of continual mediation, information overload, optimization pressure, and interaction with AI systems. Together, these concepts form the conceptual foundation of the Cognitive Drift framework.
 
 ---
 
-## Structure
+## Included Concepts
 
-**[01 Cognitive Drift](https://github.com/therealitydrift/cognitive-drift-institute/tree/main/01_Canonical_Frameworks/Canonical_Concept_Papers/01_Cognitive_Drift)**  
-The central concept describing how cognition gradually shifts under recursive symbolic, mediated, and informational environments.
+### Cognitive Drift
 
-**[02 Recursive Compression](https://github.com/therealitydrift/cognitive-drift-institute/tree/main/01_Canonical_Frameworks/Canonical_Concept_Papers/02_Recursive_Compression)**  
-The structural process by which thought, meaning, and systems compress recursively through layers of abstraction.
+Defines the central concept describing how attention, judgment, interpretation, and meaning gradually reorganize under modern informational conditions.
 
-**[03 Drift Principle](https://github.com/therealitydrift/cognitive-drift-institute/tree/main/01_Canonical_Frameworks/Canonical_Concept_Papers/03_Drift_Principle)**  
-The general principle describing how systems maintain coherence while gradually losing alignment with external conditions.
+### Drift Principle
 
-**[04 Semantic Fidelity](https://github.com/therealitydrift/cognitive-drift-institute/tree/main/01_Canonical_Frameworks/Canonical_Concept_Papers/04_Semantic_Fidelity)**  
-The constraint governing how meaning is preserved, distorted, or degraded as it moves through symbolic systems.
+Describes the broader tendency for cognitive systems to become increasingly shaped by mediated representations as direct feedback from reality weakens.
 
----
+### Co-Cognition
 
-## Document Structure
+Examines cognition as a distributed process emerging through interaction between people, tools, interfaces, institutions, and AI systems.
 
-Each concept folder contains:
+### Semantic Fidelity
 
-- **Canonical Concept Paper**  
-  Extended conceptual treatment of the idea, its mechanisms, and its structural role.
-
-- **Canonical Definition**  
-  Stable compressed definition used across reference, citation, and interpretive work.
+Explores whether meaning, intent, and reference remain intact as information moves through language, representations, and AI systems.
 
 ---
 
-## Role Within the Framework
+## Reading Order
 
-These concept papers form the primary conceptual backbone of the Cognitive Drift Institute. They provide the stable theoretical architecture used across overview materials, diagnostics, applied essays, and future extensions.
+Readers new to the framework should begin with **Cognitive Drift**, followed by **Drift Principle**, **Co-Cognition**, and **Semantic Fidelity**.
 
----
-
-## Core Resources
-
-- [Substack Essays](https://thecognitivedrift.substack.com/)
-- [GitHub Repository](https://github.com/therealitydrift/cognitive-drift-institute)
-- [Glossary and Definitions](https://offbrandguy.com/cognitive-drift-glossary/)
+Together these papers establish the conceptual foundation for the broader Cognitive Drift framework.
 
 ---
 
-## Citation
-
-*A. Jacobs* (2026). Canonical Concept Papers. Cognitive Drift Institute.
+*Part of the Reality Drift framework (2023–2026) by A. Jacobs.*
