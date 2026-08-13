@@ -1,8 +1,8 @@
 # Overview and Guides
 
-This directory contains introductory materials for the Cognitive Drift framework.
+This directory contains introductory and reference materials on Cognitive Drift, Co-Cognition, and AI-mediated thought.
 
-These documents provide accessible entry points to the framework, including overview papers, definitions, frequently asked questions, and conceptual guides. They are intended to orient new readers before exploring the core concept papers and research documents.
+These documents define how thought can develop through recursive exchanges between people and external systems. They distinguish Co-Cognition from ordinary tool use, examine its relationship to Cognitive Drift, and provide practical methods for evaluating grounding, meaning preservation, and independent judgment.
 
 ---
 
@@ -10,25 +10,25 @@ These documents provide accessible entry points to the framework, including over
 
 ### What Is Co-Cognition?
 
-A short introduction to Co-Cognition and the role of distributed cognition across people, tools, interfaces, and AI systems.
+A concise introduction to Co-Cognition as thought distributed across recursive exchanges among people, tools, institutions, and computational systems. It explains externalization, system transformation, evaluation, reintegration, and recursive exchange.
 
-### Co-Cognition: Canonical Overview and FAQ
+### Co-Cognition Framework Overview
 
-Introduces the concept of Co-Cognition, explains its scope, and answers common questions about its relationship to the broader Cognitive Drift framework.
+A structural reference defining Co-Cognition, its boundaries, distribution of cognitive labor, and analytic vocabulary. It distinguishes bounded Co-Cognition from loops that become increasingly organized around their own representations.
 
-### Cognitive Drift & Co-Cognition: Canonical Overview and FAQ
+### AI-Mediated Cognition Field Guide
 
-Explores how Cognitive Drift and Co-Cognition relate to one another, clarifying their distinct roles within the Reality Drift framework.
+A practical guide to recognizing how AI enters thought formation, writing, memory, interpretation, and judgment. It examines semantic scaffolding, cognitive outsourcing, cognitive debt, grounding, and practices that preserve independent judgment.
 
-### AI Thought: Co-Cognition Field Guide
+### Co-Cognition and Cognitive Drift
 
-A practical guide examining how thinking increasingly occurs across interactions with AI systems, external representations, and digital tools.
+An explanation of how distributed thought can remain a bounded cognitive capability or become a pathway to Cognitive Drift. It examines recursive representation, Semantic Fidelity, weakened correction, stop conditions, and the ability to test thought outside the loop.
 
 ---
 
 ## Purpose
 
-These materials provide a general introduction to the Cognitive Drift framework and its related concepts. They are designed for readers who are new to the project and serve as companion documents to the formal concept papers and research publications.
+These materials provide an entry point to Co-Cognition and its relationship to Cognitive Drift. They are intended for readers examining how AI and other external systems participate in thought formation, how meaning changes across recursive interaction, and how distributed cognitive processes remain answerable to evidence, consequence, and reality.
 
 ---
 
