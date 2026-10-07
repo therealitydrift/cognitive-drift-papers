@@ -1,43 +1,69 @@
-# Cognitive Drift Papers — Substack Essays
+# Cognitive Drift Papers | Collected Substack Essays
 
-This folder contains Markdown versions of essays from Cognitive Drift Papers, a writing series focused on cognition under compression, recursive feedback, symbolic constraint, AI-mediated thought, and cognitive drift.
+This folder collects nine essays published through [Cognitive Drift Papers on Substack](https://thecognitivedrift.substack.com/). They explore the formation and transformation of thought through language, compression, recursive feedback, digital mediation, and human–AI interaction. Together, the essays trace questions that inform the broader Cognitive Drift and Co-Cognition work.
 
-These essays are formatted from the original Substack posts for cleaner archiving, indexing, reuse, and long-term organization.
+These are essays rather than canonical definitions. Some originated as earlier explorations and use terminology or emphases that were subsequently refined. For current definitions and formal distinctions, consult the repository's `02_Core_Concept_Papers` and `01_Overview_and_Guides` folders.
 
-## Contents
+## Essays
 
-| Date         | Essay                                                                              | Description                                                                                                                                                                                                                                                      |
-| ------------ | ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Mar 03, 2024 | Co-Cognition: How Predictive Minds Link to Digital Systems                         | [Explores how human cognition increasingly extends into digital systems, creating new feedback loops between prediction, compression, recursive media, distributed cognition, and shared meaning.](co-cognition-how-predictive-minds-link-to-digital-systems.md) |
-| May 18, 2024 | Recursive Compression: How Systems Build Stability Through Memory and Feedback     | [Explores how complex systems preserve stability by compressing information into reusable forms and feeding those forms back into future operation.](recursive-compression-how-systems-build-stability-through-memory-and-feedback.md)                           |
-| Aug 07, 2024 | The Mirror Effect: How AI Feedback Loops Reshape Thought and Expression            | [Describes how repeated interaction with AI can reshape language, reflection, self-modeling, and thought through recursive feedback loops.](mirror-effect-how-ai-feedback-loops-reshape-thought-and-expression.md)                                               |
-| Oct 29, 2024 | Linear and Recursive Thinking: How Different Cognitive Styles Shape AI Interaction | [Compares linear and recursive cognitive styles and explains how different modes of thought engage AI systems, feedback, attention, and meaning differently.](linear-and-recursive-thinking-how-different-cognitive-styles-shape-ai-interaction.md)              |
-| Jan 14, 2025 | What LLMs Reveal About Intelligence, Compression, and Meaning                      | [Uses large language models as a structural lens for understanding intelligence as compression, memory, recursion, fidelity, and meaning preservation.](what-llms-reveal-about-intelligence-compression-and-meaning.md)                                          |
-| Apr 02, 2025 | Cognitive Compression Styles: How Minds Filter, Organize, and Stabilize Meaning    | [Presents a working model of different cognitive compression strategies and how minds filter information, organize meaning, and experience drift under pressure.](cognitive-compression-styles-how-minds-filter-organize-and-stabilize-meaning.md)               |
-| Jun 21, 2025 | When Meaning Stops Holding Together                                                | [Explores how cognition becomes unstable when meaning can no longer compress experience into coherent models under accelerating informational conditions.](when-meaning-stops-holding-together.md)                                                               |
-| Sep 09, 2025 | Why Modern Cognition Rarely Resolves                                               | [Explains how weakening constraints, broken stop conditions, and symbolic continuation keep thought active long after resolution should have arrived.](why-modern-cognition-rarely-resolves.md)                                                                  |
-| Nov 26, 2025 | How Language Stabilized Human Thought                                              | [Examines how language introduced symbolic constraint, recursive thought, and new forms of cognitive stability beyond direct embodied experience.](how-language-stabilized-human-thought.md)                                                                     |
+### Compression and Co-Cognition: Linking Predictive Minds to Digital Systems
 
-## Folder Purpose
+Connects predictive processing, media theory, distributed cognition, information theory, and recursive feedback to digital environments.
 
-This folder is intended as a clean Markdown archive of Cognitive Drift Papers essays originally published on Substack. The files preserve the original article structure while making the essays easier to store, search, cite, and republish across archive systems.
+[Read the archived Markdown](co-cognition-how-predictive-minds-link-to-digital-systems.md) · [Read on Substack](https://thecognitivedrift.substack.com/p/the-missing-links-from-predictive)
 
-The collection tracks the development of Cognitive Drift as a framework for understanding how thought changes under compression, feedback, digital mediation, symbolic constraint, and AI-assisted cognition.
+### Cognitive Compression Styles: How Minds Filter, Organize, and Stabilize Meaning
 
-## Core Themes
+Examines differences in how people compress experience into concepts, organize information, and stabilize meaning.
 
-The essays in this folder focus on several related patterns:
+[Read the archived Markdown](cognitive-compression-styles-how-minds-filter-organize-and-stabilize-meaning.md) · [Read on Substack](https://thecognitivedrift.substack.com/p/the-cognitive-architectures-why-minds)
 
-- Cognitive drift as the weakening of stable meaning under pressure
-- Co-cognition and AI-mediated thought
-- Recursive compression, memory, and feedback loops
-- The mirror effect in human-AI interaction
-- Linear versus recursive cognitive styles
-- Cognitive compression strategies and differential failure modes
-- Meaning collapse, filter fatigue, and unresolved cognition
-- Symbolic constraint, language, closure, and stop conditions
-- LLMs as tools for understanding intelligence, compression, and fidelity
+### How Language Stabilized Human Thought
 
-## Suggested Use
+Explores language as a means of retaining, organizing, and recursively developing human thought.
 
-Use this folder as the Substack essay archive for Cognitive Drift Papers. These Markdown files can sit alongside canonical definitions, overview documents, concept papers, and glossaries as public-facing essays that show the development of the framework over time. For canonical reference, use the later formal Cognitive Drift and Co-Cognition overview, glossary, and concept papers.
+[Read the archived Markdown](how-language-stabilized-human-thought.md) · [Read on Substack](https://thecognitivedrift.substack.com/p/the-autopoietic-turn-in-human-cognition)
+
+### Linear and Recursive Thinking: How Different Cognitive Styles Shape AI Interaction
+
+Compares sequential and recursive approaches to thought and how each engages with responsive AI systems.
+
+[Read the archived Markdown](linear-and-recursive-thinking-how-different-cognitive-styles-shape-ai-interaction.md) · [Read on Substack](https://thecognitivedrift.substack.com/p/linear-vs-recursive-thinking)
+
+### The Mirror Effect: How AI Feedback Loops Reshape Thought and Expression
+
+Examines how AI can reflect and reorganize partial thought, influencing later framing, language, and interpretation.
+
+[Read the archived Markdown](mirror-effect-how-ai-feedback-loops-reshape-thought-and-expression.md) · [Read on Substack](https://thecognitivedrift.substack.com/p/ai-the-mirror-effect)
+
+### Recursive Compression: How Systems Build Stability Through Memory and Feedback
+
+Explores how reusable representations and feedback create continuity, while also introducing pathways for cumulative distortion.
+
+[Read the archived Markdown](recursive-compression-how-systems-build-stability-through-memory-and-feedback.md) · [Read on Substack](https://thecognitivedrift.substack.com/p/recursive-compression-theory)
+
+### What LLMs Reveal About Intelligence, Compression, and Meaning
+
+Uses language models to investigate compression, the production of coherent language, and questions about understanding and meaning.
+
+[Read the archived Markdown](what-llms-reveal-about-intelligence-compression-and-meaning.md) · [Read on Substack](https://thecognitivedrift.substack.com/p/ai-mirrors-the-mind)
+
+### When Meaning Stops Holding Together
+
+Explores how compressed and mediated information can retain fluent form while losing the context and relationships that sustain meaning.
+
+[Read the archived Markdown](when-meaning-stops-holding-together.md) · [Read on Substack](https://thecognitivedrift.substack.com/p/the-meaning-deficit-why-fidelity)
+
+### Why Modern Cognition Rarely Resolves
+
+Examines ongoing cycles of interpretation and refinement, especially when thought lacks clear stop conditions or external resolution.
+
+[Read the archived Markdown](why-modern-cognition-rarely-resolves.md) · [Read on Substack](https://thecognitivedrift.substack.com/p/cognition-without-stop-conditions)
+
+## Relationship to the Framework
+
+Cognitive Drift describes progressive misalignment between human models, attention, or judgment and the conditions they are meant to navigate, even while thinking remains coherent and functional. Co-Cognition describes the distributed process through which people and external systems shape thought through recursive exchange. Co-Cognition does not inherently produce Cognitive Drift. The distinction is whether meaning, purpose, independent judgment, and corrective contact remain effective as representations circulate and return.
+
+This collection preserves the essays as part of the development and public circulation of those ideas. The canonical concept papers remain the reference for current formulations.
+
+*Part of the Reality Drift framework (2023–2026) by A. Jacobs.*
